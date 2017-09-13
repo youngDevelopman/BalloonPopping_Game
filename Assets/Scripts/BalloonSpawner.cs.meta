@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cbe0c431c1fe1674abb254e67efd8967
+timeCreated: 1505238890
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - balloonPrefab: {fileID: 1282798776423756, guid: 6fed675c757004145b6922542c6585ac,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
